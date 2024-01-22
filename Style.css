@@ -1,0 +1,48 @@
+.myheading{
+    color: #334cb6;
+    font-size: 40px;
+    background-color: #404040;
+}
+#three{
+    color: crimson;
+}
+.first{
+    background-color: orange;
+}
+.1{
+background-color: olive;
+}
+.2{
+background-color: darkgoldenrod;
+}
+.first{
+  background-color: #dc9d14;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+
+}
+.test{
+    display: flex;
+    background-color: blue;
+    padding: 20px;
+}
+.paragraphone{
+    margin-left: 40px;
+}
+.main{
+    display: flex;
+}
+.Paragraph2{
+    background-color: crimson;
+}
+.Paragraph3{
+    background-color: olivedrab;
+}
+.Paragraph4{
+    background-color: orange;
+}
